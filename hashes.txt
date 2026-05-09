@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nefsy Aftaker
+
+This log tracks the cryptographic history and versioning for the song **Nefsy Aftaker** (nefsy-aftaker).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:18:38.956517 | `v1` | `9100d25ce6548fc6a353ba367b150278647ec703e967233392339832aa1eb5a5` | `d4a496441dc0d5800c754eabf7ef615e9e6ce96a184af56813e99d8dccbeafe1` | `2026-05-09_nefsy-aftaker-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
